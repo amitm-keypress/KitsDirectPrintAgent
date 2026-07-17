@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Kits Direct Print Agent
+Comment=Odoo Direct Print desktop agent
+Exec=/opt/kits-direct-print-agent/KitsDirectPrintAgent
+Icon=kits-direct-print-agent
+Terminal=false
+Categories=Utility;
